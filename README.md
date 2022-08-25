@@ -2,7 +2,7 @@
   <h2>Marc Bertu</h2>
 </div>
 <div align=center>
-  <h3>Junior Developper</h3>
+  <h3>Junior Developer</h3>
 </div>
 <div align=center><img src="https://komarev.com/ghpvc/?username=MarcBertu" /></div>
 
