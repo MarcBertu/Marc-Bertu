@@ -15,7 +15,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" width="40" height="40"/>
