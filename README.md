@@ -9,7 +9,7 @@
 ---
 
 <div>
-    <h4>👋 Hi, my name is Marc. I'm an 22 years old.</h4>
+    <h4>👋 Hi, my name is Marc.</h4>
     <h4>💻 I already created a few project like website, java application, Mobile app </h4>
 </div>
 
